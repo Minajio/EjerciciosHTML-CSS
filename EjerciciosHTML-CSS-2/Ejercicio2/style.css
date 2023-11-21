@@ -1,0 +1,53 @@
+h1#titulo{
+    color: rgb(15, 102, 102);
+}
+p strong{
+    color: red;
+}
+p span.destacado{
+    color: gold;
+}
+h2#subtitulo{
+    color: blue;
+}
+p a em{
+    color: blue;
+}
+p a{
+    color: red;
+}
+p span.especial{
+    color: purple;
+}
+table caption{
+    color: blue;
+}
+table, th, tr, td{
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+td{
+    color: green;
+}
+td strong{
+    color: gold;
+}
+th[scope=row]{
+    color: red;
+}
+th.especial{
+    color: gold;
+}
+tfoot th[scope=col]{
+    color: red;
+}
+div#adicional{
+    color: green;
+}
+div#adicional span#especial{
+    color: fuchsia;
+}
+div#adicional a{
+    color: darkgreen;
+}

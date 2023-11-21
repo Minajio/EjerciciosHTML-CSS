@@ -1,0 +1,12 @@
+div.galeria{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    border: 1px solid lightgray;
+    padding: 7px;
+    margin: 20px;
+}
